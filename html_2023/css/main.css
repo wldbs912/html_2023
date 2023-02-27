@@ -1,0 +1,63 @@
+@charset "UTF-8"; 
+/*슬라이더*/  
+        #slider  {width:100%; height:340px; margin:0 auto;}
+        #slider > img {width:100%; height:100%;}
+
+    
+
+
+        section {width:1260px; height:3750px; margin:0 auto;}
+
+        #news1 {width:1000px; height:130px; float:left; margin:20px 0 0 120px;}
+        #news1 > img {width: 1000px; height: 130px;}
+
+
+        #brand {width:1000px; height:300px; float:left; margin:30px 0 0 120px;}
+        #brand >.brandbox {width:220px; height:200px; float:left; margin:12px 0px 0 25px;}
+        
+        #brand >.brandbox > span {font-size: 11px; color: #666;}
+        #brand> .brandbox > p:first-of-type { color:#666;font-size: 11px;}
+        #brand > .brandbox > img {width: 220px; height:200px;}
+
+
+
+
+
+        #box1 {width:250px; height:115px; float:left; margin:35px 0px 0 115px;}
+        #box1 > img {width:250px; height:150px; margin: 0px 0 0 0px;}
+        #box2 {width:250px; height:115px; float:left; margin:35px 0px 0 40px;}
+        #box2 > img {width:250px; height:150px; margin: 0px 0 0 0px;}
+        #box3 {width:430px; height:115px; float:left; margin:35px 0px 0 30px;}
+        #box3 > img {width:430px; height:150px; margin: 0px 0 0 0px;}
+
+
+
+        #news2 {width:1000px; height:190px; float:left; margin:80px 0 0 0px;}
+        #news2 > img {width:100%; height: 100%;}
+
+        #brand1 {width:1000px; height:300px; float:left; margin:30px 0 0 0px;}
+        #brand1 >.brandbox {width:220px; height:200px; float:left; margin:12px 0px 0 25px;}
+        #brand1 >.brandbox > span {font-size: 11px; color: #666;}
+        #brand1 > .brandbox > p:first-of-type { color:#666;font-size: 11px;}
+        #brand1 > .brandbox > img {width: 220px; height:200px;}
+
+        #news3 {width:1000px; height:200px; float:left; margin:80px 0 0 0px;}
+        #news3 > img {width:100%; height: 100%; }
+
+        #brand2 {width:1000px; height:1200px; float:left; margin:30px 0px 0px 0px;}
+        #brand2 >.brandbox2 {width:280px; height:280px; float:left; margin:30px 0px 80px 40px;}
+        #brand2 >.brandbox2 > span {font-size: 11px; color: #666;}
+        #brand2 > .brandbox2 > p:first-of-type { color:#666;font-size: 11px;}
+        #brand2 >.brandbox2 > img {width:100%; height: 100%;}
+        #brand2 > .brandbox2 > p:after {content:"~20%"; color:red;}
+
+
+
+        #index-section {width:1000px; height:700px; float:left; margin:30px 0px 0px 0px;}
+        #index-section > .strory-section {width:250px; height:230px; float:left; margin:30px 0px 80px 60px;}
+        #index-section > .strory-section > img {width:100%; height: 100%; border-radius: 15px;  }
+        #index-section > strory-section > p:first-of-type { color:#666;font-size: 11px;}
+    
+        #index-section >.strory-section2 {width:170px; height:190px; float:left; margin:25px 0px 0px 25px;}
+        #index-section > .strory-section2 > img {width:100%; height: 100%; border-radius: 15px;}
+        #index-section > .strory-section2 > p:first-of-type { color:#666;font-size: 11px;}

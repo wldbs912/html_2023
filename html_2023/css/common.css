@@ -1,0 +1,40 @@
+@charset "UTF-8"; 
+/*헤더*/
+        header {width: 100%; height: 164px;}
+        header > div {width:1260px; height:170px; margin:0 auto;}
+
+            #search {width:170px; height:35px; float:left; margin:80px 0 0 100px;}
+
+            #logo {width:200px; height:90px; float:left; margin:20px 0 0 300px;}
+            #logo > a > img {width:100%; height:100%;}
+            #login {width:200px; height:25px; float:right; margin:20px 10px 0 0px;}
+
+            #login ul {font-size:12px; color:#666; padding: 8px; margin: 0 0 0 55px;}
+            #login li {float:left; margin:0 0 5px;}
+            #login li a {text-decoration:none; color:#666;}
+
+
+            #iconbox1 {width:300px; height:30px; float:right; margin:10px 10px 0 0px;}
+            #iconbox1 > .nav-menu { margin:0px 5px 5px 5px; color:#000; float: left;}
+            #iconbox1 > .nav-menu > a >img {width:25px; height:25px;margin: 10px 0 0 0px;}
+            #iconbox1 > .nav-menu > span > a {font-size:14px; color: #000; text-decoration:none; }
+
+
+            nav {width:1060px; height:40px; float:right;  margin:10px 100px 0 0px;}
+            nav > ul {width: 1060px; height: 40px; margin: 0 auto;}
+            nav > ul > li > a {text-decoration: none; float: left; margin: 10px 130px; color: #000; font-weight: bold;}
+            nav > ul > li > a:hover {opacity: 0.5;}
+
+
+ /*하단*/
+
+
+        footer  {width:100%; height:200px;  margin:0px 0 0 0px;}
+        footer > #box {width: 1260px; height: 190px; margin:5px auto; }
+
+        footer > #box > ul {width:750px; height:50px; float:left; margin:20px 0 0 30px; color:#000;}
+        footer > #box > ul > li {float:left; font-size: 12px; margin:5px 5px;}
+        footer > #box > ul > li > a {text-decoration: none; color:#666;}
+        footer > #box > p { float:left; width:500px; height:50px; margin:0px 0 0 40px; font-size:11px; color: #666;}
+
+
